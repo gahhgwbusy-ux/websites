@@ -1,4 +1,15 @@
-# Introduction
+hiadb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh1758505824 
+Bjehug
+123456
+xcswr
+egwdcb
+ruwhd.
+siege 
+staff 
+sgrfye
+enen e
+enebrb
+Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
